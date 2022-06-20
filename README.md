@@ -20,13 +20,13 @@ https://m.rainstore.cn/
 
 ### 开源项目
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=QiuLigGao-ty&repo=kustom-Color-selection)](https://github.com/QiuLigGao/Kustom-Color-selection)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=QiuLigGao-ty&repo=Rsshub)](https://github.com/QiuLigGao/RSSHub)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=QiuLigGao&repo=kustom-Color-selection)](https://github.com/QiuLigGao/Kustom-Color-selection)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=QiuLigGao&repo=Rsshub)](https://github.com/QiuLigGao/RSSHub)
 <br><br><br>
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=QiuLigGao-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=QiuLigGao-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=QiuLigGao&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=QiuLigGao&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiuLigGao-ty)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QiuLigGao)
