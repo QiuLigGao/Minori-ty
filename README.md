@@ -5,7 +5,7 @@
 摸鱼崽一枚.
 
 ### **社交主页：**
-https://m.rainstore.cn/
+http://m.rainstore.vip/
 
  
 
